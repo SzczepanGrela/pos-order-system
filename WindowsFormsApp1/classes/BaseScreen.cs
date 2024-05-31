@@ -57,6 +57,9 @@ namespace WindowsFormsApp1.classes
         {
             // works only for table of same type of controls
 
+
+            if (controls.Count() == 0) return;
+
             var examplecontrol = controls[0];
 
 

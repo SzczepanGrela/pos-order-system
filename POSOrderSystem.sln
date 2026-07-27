@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punkt_składania", "Punkt_składania.csproj", "{E81723F2-7941-43B4-8B16-8989EBED6CDE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSOrderSystem", "POSOrderSystem\POSOrderSystem.csproj", "{E81723F2-7941-43B4-8B16-8989EBED6CDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
